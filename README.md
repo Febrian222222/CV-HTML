@@ -3,7 +3,9 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <title>CV Mohammad Febrian Alifanma</title>
+    <title>
+        CV Mohammad Febrian Alifanma
+    </title>
 </head>
 <body>
     <header>
@@ -11,14 +13,12 @@
         <p>085716160860 | febriananma22@gmail.com</p>
         <p>Sukabumi Selatan, Kebon Jeruk, Jakarta Barat</p>
     </header>
-
     <section>
         <h2>Tentang Saya</h2>
         <p>
             Saya adalah mahasiswa Sistem Informasi di Universitas Telkom yang memiliki semangat tinggi untuk terus belajar dan berkontribusi dalam pengembangan riset dan inovasi. Saya percaya bahwa bergabung dengan tim Data Science akan memberikan peluang besar bagi saya untuk mengembangkan potensi akademik serta memperluas wawasan di bidang analisis data dan pengembangan teknologi. Dengan latar belakang saya di Sistem Informasi, saya berkomitmen untuk mendukung proyek-proyek riset yang berdampak positif bagi lingkungan kampus dan masyarakat luas. Harapan saya adalah turut menciptakan solusi inovatif dan inspirasi bagi mahasiswa lainnya dalam memajukan ilmu pengetahuan dan teknologi.
         </p>
     </section>
-
     <section>
         <h2>Pendidikan</h2>
         <ul>
@@ -26,7 +26,6 @@
             <li><strong>SMK Negeri 45 Jakarta, Jurusan Bisnis dan Pemasaran</strong> (2020 - 2023)</li>
         </ul>
     </section>
-
     <section>
         <h2>Pengalaman</h2>
         <ul>
@@ -42,7 +41,6 @@
             </li>
         </ul>
     </section>
-
     <section>
         <h2>Proyek Yang Pernah Dikerjakan</h2>
         <ul>
@@ -52,8 +50,7 @@
                 Hasil: Hasil analisis menunjukkan adanya hubungan linear positif yang signifikan antara jumlah kasus baru dan jumlah kematian baru. Artinya, peningkatan jumlah kasus baru cenderung diikuti oleh peningkatan jumlah kematian baru.
             </li>
         </ul>
-    </section>
-
+    </section
     <section>
         <h2>Pelatihan</h2>
         <ul>
@@ -63,7 +60,6 @@
             <li><strong>Data Science Fundamentals - Talent Class | 2024</strong></li>
         </ul>
     </section>
-
     <section>
         <h2>Keterampilan</h2>
         <h3>Hard Skill</h3>
@@ -76,7 +72,6 @@
             <li>SQL</li>
             <li>SAP</li>
         </ul>
-
         <h3>Soft Skill</h3>
         <ul>
             <li>Mampu berpikir kritis dalam mengevaluasi dan menyelesaikan masalah.</li>
